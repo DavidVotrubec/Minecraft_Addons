@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Legonaut",
+		"description": "Legonautův hlavní balíček, spojuje všechny ostatní balíčky dohromady",
+		"uuid": "6f0fe5e5-fc05-443a-b413-5261870bff9c",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"metadata": {
+		"authors": [
+			"David Votrubec",
+			"Ondra Votrubec"
+		]
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [
+				1,
+				0,
+				0
+			],
+			"uuid": "2b206b89-2ccc-5d08-03d5-7579afe57409",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "0f27d525-9450-436a-ab0f-52a7b73a4938",
+			"type": "data",
+			"version": [
+				1,
+				0,
+0
+			]
+		}
+	]
+}

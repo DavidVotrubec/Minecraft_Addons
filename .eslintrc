@@ -1,0 +1,8 @@
+{
+	"extends": [
+		"prettier" // ⬅ Disables conflicting ESLint formatting rules
+	],
+	"rules": {
+		"indent": ["error", "tab"]
+	}
+}

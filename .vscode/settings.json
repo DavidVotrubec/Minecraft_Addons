@@ -1,0 +1,19 @@
+{
+    // The number of spaces a tab is equal to.
+    "editor.tabSize": 4,
+
+    "editor.insertSpaces": false,
+
+    // When opening a file, `editor.tabSize` and `editor.insertSpaces` will be detected based on the file contents.
+    "editor.detectIndentation": true,
+
+
+	"editor.formatOnSave": true,
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	  
+}

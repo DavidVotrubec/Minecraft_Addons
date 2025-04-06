@@ -1,0 +1,15 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "Legonaut předměty",
+      "description": "Balíček pouze pro předměty",
+      "uuid": "0f27d525-9450-436a-ab0f-52a7b73a4938",
+      "version": [1, 0, 0]
+    },
+    "dependencies": [
+      {
+        "uuid": "4323e112-d6e9-4323-b173-7f77f7956a1f", "version": [1, 0, 0]
+      }
+    ]
+  }
+  

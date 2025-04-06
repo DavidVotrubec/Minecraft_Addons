@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Meče",
+		"description": "RP Balíček mečů",
+		"uuid": "4323e112-d6e9-4323-b173-7f77f7956a1f",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Ondra Votrubec", "David Votrubec"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.6.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Meče",
+			"type": "resources",
+			"uuid": "54b81ad0-bcda-47ce-aea7-548f6464f467",
+			"version": [1, 0, 0]
+		}
+	]
+}

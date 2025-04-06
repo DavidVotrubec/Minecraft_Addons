@@ -7,3 +7,4 @@ Screenshots/
 skin_packs/
 world_templates/
 *.dat
+node_modules/

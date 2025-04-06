@@ -1,0 +1,22 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "votrubec:slon",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/slon"
+			},
+			"geometry": {
+				"default": "geometry.slon"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"base_color": "#be4d23",
+				"overlay_color": "#85b92e"
+			}
+		}
+	}
+}

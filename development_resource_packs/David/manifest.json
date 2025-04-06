@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "David",
+		"description": "Přidává jedovatý meč",
+		"uuid": "f792a765-6eec-47e1-baea-599424fec93d",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["David Votrubec", "Ondra Votrubec"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.7.0"]
+		}
+	},
+	"dependencies": [
+		{
+			"uuid": "3958f9a2-96e4-4db0-a907-145d065cd7f0",
+			"version": [1, 0, 0]
+		}
+	],
+	"modules": [
+		{
+			"description": "David",
+			"type": "resources",
+			"uuid": "bab663ed-0e2e-08fd-66b1-bf94cfb3000f",
+			"version": [1, 0, 0]
+		}
+	]
+}

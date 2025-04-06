@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "slon",
+		"description": "slon Resource Pack",
+		"uuid": "6678c634-bb36-5f5a-6163-2bb7add79913",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Ondra Votrubec", "David Votrubec"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.6.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "slon",
+			"type": "resources",
+			"uuid": "10e0bcb4-5504-ec0d-b30a-715182cb6d22",
+			"version": [1, 0, 0]
+		}
+	]
+}

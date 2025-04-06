@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "David_Player",
+		"description": "David_Player Behavior Pack",
+		"uuid": "abbaffdc-8c57-153e-723c-0d7ca2a6579b",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["David Votrubec", "Ondra Votrubec"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.7.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "2b206b89-2ccc-5d08-03d5-7579afe57409",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "166f342f-95ba-51ff-4bea-e4dd27aaee0d",
+			"version": [1, 0, 0]
+		}
+	]
+}

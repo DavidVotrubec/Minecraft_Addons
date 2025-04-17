@@ -1,42 +1,40 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Legonaut",
-		"description": "Legonautův hlavní balíček, spojuje všechny ostatní balíčky dohromady",
-		"uuid": "6f0fe5e5-fc05-443a-b413-5261870bff9c",
+	"description": "Legonaut Behavior pack #2!",
+	"name": "Muj Behavior Pack",
+	"uuid": "9173a04c-736b-43f5-b71b-d5cf4fd026bd",
+	"version": [
+		1,
+		0,
+		0
+	],
+	"min_engine_version": [
+		1,
+		16,
+		0
+	]
+},
+	"modules": [
+		{
+		"description": "Můj první Add-On!",
+		"type": "data",
+		"uuid": "331d9a1d-dbbf-4213-b6df-4a7757e6cddf",
 		"version": [
 			1,
 			0,
 			0
 		]
-	},
-	"metadata": {
-		"authors": [
-			"David Votrubec",
-			"Ondra Votrubec"
-		]
-	},
-	"modules": [
-		{
-			"description": "Behavior",
-			"version": [
-				1,
-				0,
-				0
-			],
-			"uuid": "2b206b89-2ccc-5d08-03d5-7579afe57409",
-			"type": "data"
-		}
-	],
-	"dependencies": [
-		{
-			"uuid": "0f27d525-9450-436a-ab0f-52a7b73a4938",
-			"type": "data",
-			"version": [
-				1,
-				0,
-0
-			]
-		}
+	}
+],
+"dependencies": [
+	{
+	"uuid": "1dacc442-6fb8-43fa-b869-f3166d3fa2d2",
+	"version": [
+		1,
+		0,
+		0
 	]
+}
+]
 }

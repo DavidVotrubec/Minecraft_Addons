@@ -1,8 +1,11 @@
 {
 	"resource_pack_name": "Legonaut Ohnivy Mec RP",
 	"texture_data": {
-	  "votrubec:ohnivy_mec": {
-		"textures": "textures/items/ohnivy_mec"
-	  }
+		"votrubec:ohnivy_mec": {
+			"textures": "textures/items/ohnivy_mec"
+		},
+		"zlute_brneni": {
+			"textures": "textures/items/zlute_brneni.png"
+		}
 	}
   }

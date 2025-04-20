@@ -1,2 +1,5 @@
-item.votrubec.ohnivy_mec.name=Ohnivý Meč
-item.votrubec.zlute_brneni.name=Žluťoulinké brněníčko cs
+item.votrubec:ohnivy_mec.name=Ohnivý Meč
+item.votrubec:zlute_brneni.name=Žluťoulinké brněníčko
+entity.votrubec:jednorozec.name=Jednorožec
+item.spawn_egg.entity.votrubec:jednorozec.name=Spawn Jednorožec
+action.hint.exit.votrubec:jednorozec=Tap sneak to dismount

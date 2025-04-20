@@ -1,0 +1,3 @@
+entity.votrubec:jednorozec.name=Jednorožec
+item.spawn_egg.entity.votrubec:jednorozec.name=Spawn Jednorožec
+action.hint.exit.votrubec:jednorozec=Tap sneak to dismount

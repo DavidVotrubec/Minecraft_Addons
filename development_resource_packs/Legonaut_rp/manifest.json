@@ -1,26 +1,23 @@
 {
-    "format_version": 2,
-    "header": {
+	"format_version": 2,
+	"header": {
 		"description": "Legonatův resource pack Add-On!",
 		"name": "Legonatův Resource Pack",
 		"uuid": "1dacc442-6fb8-43fa-b869-f3166d3fa2d2",
-		"version": [
-			1,
-			0,
-			0
-		],
-		"min_engine_version": [
-			1,
-			16,
-			0
-		]
-     },
-    "modules": [
-      {
-		"description": "Legonatův první Add-On!",
-        "type": "resources",
-        "uuid": "f3377a9c-e3a6-4dfd-a112-b1b592011b63",
-        "version": [1, 0, 0]
-      }
-    ]
-   }
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"description": "Legonatův první Add-On!",
+			"type": "resources",
+			"uuid": "f3377a9c-e3a6-4dfd-a112-b1b592011b63",
+			"version": [1, 0, 0]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.7.0"]
+		}
+	}
+}

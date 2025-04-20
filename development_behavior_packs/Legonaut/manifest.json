@@ -1,40 +1,29 @@
 {
 	"format_version": 2,
 	"header": {
-	"description": "Legonaut Behavior pack #2!",
-	"name": "Legonaut Behavior pack #2!",
-	"uuid": "9173a04c-736b-43f5-b71b-d5cf4fd026bd",
-	"version": [
-		1,
-		0,
-		0
-	],
-	"min_engine_version": [
-		1,
-		16,
-		0
-	]
-},
+		"description": "Legonaut Behavior pack #2!",
+		"name": "Legonaut Behavior pack #2!",
+		"uuid": "9173a04c-736b-43f5-b71b-d5cf4fd026bd",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
 	"modules": [
 		{
-		"description": "Můj první Add-On!",
-		"type": "data",
-		"uuid": "331d9a1d-dbbf-4213-b6df-4a7757e6cddf",
-		"version": [
-			1,
-			0,
-			0
-		]
+			"description": "Můj první Add-On!",
+			"type": "data",
+			"uuid": "331d9a1d-dbbf-4213-b6df-4a7757e6cddf",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "1dacc442-6fb8-43fa-b869-f3166d3fa2d2",
+			"version": [1, 0, 0]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.7.0"]
+		}
 	}
-],
-"dependencies": [
-	{
-	"uuid": "1dacc442-6fb8-43fa-b869-f3166d3fa2d2",
-	"version": [
-		1,
-		0,
-		0
-	]
-}
-]
 }
